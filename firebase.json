@@ -11,9 +11,6 @@
   },
   "hosting": {
     "public": "public",
-    "port": "HOST",
-    "host": "PORT",
-    "site": "claracook",
     "ignore": [
       "firebase.json",
       "**/.*",
